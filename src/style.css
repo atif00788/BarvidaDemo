@@ -1,0 +1,61 @@
+.App {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  height: 400px;
+  width: 600px;
+  margin: .5em;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+}
+.tab-list {
+    border-bottom: 1px solid #ccc;
+    padding-left: 0;
+    
+  }
+  
+  .tab-list-item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+    
+    
+  }
+  
+  .tab-list-active {
+    background-color: white;
+    border: solid #ccc;
+    border-width: 1px 1px 0 1px;
+    
+  }
+
+  .Tabstyle {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    height: 400px;
+    width: 600px;
+    margin: .5em;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-self: center;
+    flex-grow: 1;
+    
+  }
+
+  .knockout {
+    background: url(http://apod.nasa.gov/apod/image/0603/coma_misti.jpg) -80px -80px;
+    color: red;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-weight: bold;
+    font-size: 100px;
+    font-family: arial, helvetica;
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
