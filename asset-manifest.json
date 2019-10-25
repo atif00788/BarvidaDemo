@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/atif00788/BarvidaDemo/static/css/main.31e3e46b.chunk.css",
+    "main.js": "/atif00788/BarvidaDemo/static/js/main.b64c5818.chunk.js",
+    "main.js.map": "/atif00788/BarvidaDemo/static/js/main.b64c5818.chunk.js.map",
+    "runtime-main.js": "/atif00788/BarvidaDemo/static/js/runtime-main.311b38f9.js",
+    "runtime-main.js.map": "/atif00788/BarvidaDemo/static/js/runtime-main.311b38f9.js.map",
+    "static/js/2.d2b0494b.chunk.js": "/atif00788/BarvidaDemo/static/js/2.d2b0494b.chunk.js",
+    "static/js/2.d2b0494b.chunk.js.map": "/atif00788/BarvidaDemo/static/js/2.d2b0494b.chunk.js.map",
+    "index.html": "/atif00788/BarvidaDemo/index.html",
+    "precache-manifest.314210d55d81b3b0633dfe12bfdf610f.js": "/atif00788/BarvidaDemo/precache-manifest.314210d55d81b3b0633dfe12bfdf610f.js",
+    "service-worker.js": "/atif00788/BarvidaDemo/service-worker.js",
+    "static/css/main.31e3e46b.chunk.css.map": "/atif00788/BarvidaDemo/static/css/main.31e3e46b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.311b38f9.js",
+    "static/js/2.d2b0494b.chunk.js",
+    "static/css/main.31e3e46b.chunk.css",
+    "static/js/main.b64c5818.chunk.js"
+  ]
+}
